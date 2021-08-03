@@ -1,0 +1,100 @@
+#page-home {
+  header {
+    padding: 24px;
+    border-bottom: 1px solid #e2e2e2;
+
+    .content {
+      max-width: 1120px;
+      margin: 0 auto;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+
+      .user-info {
+        display: flex;
+
+        >img {
+          height: 60px;
+          border-radius: 50%;
+          
+          cursor: pointer;
+        }
+
+        > span {
+          display: flex;
+          align-items: center;
+          font-family: 'Poppins', sans-serif;
+          font-weight: bold;
+        }
+      }
+
+      >img {
+        max-height: 12px;
+      }
+
+      > div {
+        display: flex;
+        gap: 16px;
+      }
+
+      button {
+        height: 40px;
+      }
+    }
+  }
+
+  main {
+    max-width: 800px;
+    margin: 0 auto;
+
+    .title {
+      margin: 32px 0 24px;
+      display: flex;
+      align-items: center;
+
+      h1 {
+        font-family: 'Poppins', sans-serif;
+        font-size: 24px;
+        color: #29292e;
+      }
+
+      span {
+        margin-left: 16px;
+        background: #2AF598;
+        border-radius: 9999px;
+        padding: 8px 16px;
+        color: #fff;
+        font-weight: 500;
+        font-size: 14px;
+      }
+    }
+
+    .create-room {
+      height: 50px;
+      border-radius: 8px;
+      font-weight: 400;
+      background: #08AEEA;
+      color: #fff;
+      padding: 0 32px;
+
+      display: flex;
+      justify-content: center;
+      align-items: center;
+
+      cursor: pointer;
+      border: 0;
+
+      transition: filter 0.2s;
+    }
+    
+    .new-room {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+    
+    .rooms-list {
+      margin-top: 32px;
+    }
+  }
+}
