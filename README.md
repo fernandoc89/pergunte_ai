@@ -28,7 +28,7 @@
   <img alt="TypeScript" width="35px" height="64px" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg">
 </a>
 <a>
-  <img alt="Firebase" width="35px" height="64px" src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Firebase_Logo.png">
+  <img alt="Firebase" width="80px" height="64px" src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Firebase_Logo.png">
 </a>
 <a>
   <img alt="CSS" width="35px" height="64px" src="https://cdn.svgporn.com/logos/css-3.svg"">
