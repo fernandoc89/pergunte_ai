@@ -12,7 +12,7 @@
      
      O administrador da sala pode compartilhar o código da sala com as pessoas que desejar, assim como destacar uma pergunta ou excluí-la.
 
-     Tabém é possível curtir uma pergunta.
+     Também é possível curtir uma pergunta.
   </em>
 </p>
 <br>
